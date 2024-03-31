@@ -8,7 +8,7 @@
 
 ### Чертеж
 
-<img src="image-1.png" width="500">
+<img src="image-1.png" width="300">
 
 ### Ход работы
 
