@@ -62,7 +62,7 @@
 ##### [Лабораторная работа №10](sem2/labs/rd23_lab10/lab10.pdf)
 ##### [Лабораторная работа №11](sem2/labs/rd23_lab11/lab11.pdf)
 ##### [Лабораторная работа №12](sem2/labs/rd23_lab12/lab12.pdf)
-##### [Экзамен] (sem2/labs/exam/exam.pdf)
+##### [Экзамен](sem2/labs/exam/exam.pdf)
 
 ### С-КМ-23
 
